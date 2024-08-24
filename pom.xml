@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>ar.edu.utn.frc.tup.lciii</groupId>
-	<artifactId>scaffolding</artifactId>
+	<groupId>org.personal</groupId>
+	<artifactId>Gastos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>scaffolding</name>
-	<description>SpringBoot Project Template</description>
+	<name>Gastos</name>
+	<description>SpringBoot Project bills</description>
 
 	<properties>
 		<java.version>17</java.version>

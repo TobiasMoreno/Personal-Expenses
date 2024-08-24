@@ -1,11 +1,9 @@
-INSERT INTO dummys (dummy)
-VALUES ('dummy 1'),
-       ('dummy 2'),
-       ('dummy 3'),
-       ('dummy 4'),
-       ('dummy 5'),
-       ('dummy 6'),
-       ('dummy 7'),
-       ('dummy 8'),
-       ('dummy 9'),
-       ('dummy 10');
+INSERT INTO TIPO_GASTOS (nombre_gasto)
+VALUES('Combustible'),
+      ('Facultad'),
+      ('Tarjeta'),
+      ('Varios');
+
+
+INSERT INTO  GASTOS (tipo_gasto_id,monto_gasto,fecha_gasto)
+VALUES (1,200,'2024-08-10');
